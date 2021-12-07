@@ -1,12 +1,15 @@
 ### 
 
 
+@@ -2,8 +2,7 @@
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Abhishek.
+</p>
+<p align='center'>For enquiries, reach out @ abhishekmankie@gmail.com  </p>
 
-- 🔭 I’m currently working on ... Full Stack Development
-- 🌱 I’m currently learning ... DJANGO, DJANGO REST, REACT.JS
-- 👯 I’m looking to collaborate on ... DJANGO, REACT.JS
-- 🤔 I’m looking for help with ... above
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... abhishekmankie@gmail.com
-- 😄 Pronouns: ...  He
-- ⚡ Fun fact: ... I am Half Finish
+
+
+<h1><i>Stay awesome!</i></h1>
+</p>
+<h1 align='center'><i>Stay awesome!</i></h1>
