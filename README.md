@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... Full Stack Development
 - 🌱 I’m currently learning ... DJANGO, DJANGO REST, REACT.JS
 - 👯 I’m looking to collaborate on ... DJANGO, REACT.JS
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
+- 🤔 I’m looking for help with ... above
+- 💬 Ask me about ... anything
 - 📫 How to reach me: ... abhishekmankie@gmail.com
-- 😄 Pronouns: ... 
+- 😄 Pronouns: ...  He
 - ⚡ Fun fact: ... I am Half Finish
 -->
