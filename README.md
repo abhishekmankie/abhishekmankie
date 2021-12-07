@@ -6,7 +6,7 @@
 <p align='center'>
 I'm Abhishek.
 </p>
-<p align='center'>For enquiries, reach out @ abhishekmankie@gmail.com  </p>
+<p align='center'> reach out @ abhishekmankie@gmail.com  </p>
 
 
 
