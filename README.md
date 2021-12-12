@@ -10,6 +10,6 @@ I'm Abhishek.
 
 
 
-<h1><i>Stay awesome!</i></h1>
+
 </p>
 <h1 align='center'><i>Stay awesome!</i></h1>
